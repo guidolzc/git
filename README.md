@@ -61,26 +61,34 @@ git log historia.txt = ve el historia de q modificaste correo usuario horario y 
 # como saber como se rompio un codigo 
 
 verificamos donde estamos 
+
 $ pwd
+
+
 luego vemos lo q se encuentra adentro
 
 $ ls 
+
 
 modificamos lo que queremos modificar 
 
 $code historia.txt
 
+
 volvemos agregar la modificacion 
 
 $ git add . 
+
 
 agregamos el commit 
 
 $ git commi    = aqui se abrira una ventana donde mostrara que agregemos un commit agregamos y listo
 
+
 volvemos agregar la modificacion 
 
 $ git add . 
+
 
 vemos los cambios modificados  
 
