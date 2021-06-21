@@ -1,4 +1,4 @@
-
+#GIT 
 git init 
 git remote add origin LINK
 git status
