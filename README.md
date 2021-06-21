@@ -28,6 +28,7 @@ git commit -m " este es mi primer comit"
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
+# GIT agregando modificaciones 
 cat historia.txt  = veo lo q es ta escrito 
 
 code historia.txt = abre el archivo en visual studio code modifico la edad 31
@@ -45,3 +46,10 @@ $ git commit -m "este es mi primer commit de este archivo cambiando mi edad corr
 git log historia.txt = ve el historia de q modificaste correo usuario horario y lo q modificaste 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
