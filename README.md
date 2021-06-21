@@ -1,11 +1,11 @@
 #GIT 
-git init 
-git remote add origin LINK
+git init ,
+git remote add origin LINK,
+git status,
+git add *    o git add .   ,
 git status
-git add *    o git add .   
-git status
-git commit -m " name "
-git push origin master 
+git commit -m " name ",
+git push origin master ,
 
 
 
