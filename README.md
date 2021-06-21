@@ -1,5 +1,3 @@
-RESPONSIVE PORTAFOLIOS
-https://www.youtube.com/watch?v=_5HMNZsm6xE
 
 git init 
 git remote add origin LINK
