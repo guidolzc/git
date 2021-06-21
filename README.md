@@ -25,9 +25,11 @@ git rm --cached historia.txt  = borra ese txt  del git de subida pero no lo borr
 git add historia.txt = lo agregamos de nuevo 
 
 git commit -m " este es mi primer comit"
+
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#Configurar Git
+# Configurar Git
 
 Configuración del usuario
 
