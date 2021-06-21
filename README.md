@@ -33,9 +33,9 @@ git commit -m " este es mi primer comit"
 
 Configuración del usuario
 
-git config --global user.email user@example.com
+git config --global user.email "guidoit2021@gmail.com"
 
-git config --global user.name "Manuelito"
+git config --global user.name "guido"
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
