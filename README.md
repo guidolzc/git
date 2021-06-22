@@ -94,8 +94,11 @@ si queremos ver el historial
 $ git log historia.txt
 
 
+luego de ejectur git log  historia.txt  aqui ponemos el commit de la historia primera y luego la historia modificada del commit
+$ git diff  a3522d7cb8abbf739facd89e7e8fe5bad3f58227  d0bc310a3e4e616821cffaa9faa78de1d938380b
 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 
