@@ -64,38 +64,38 @@ verificamos donde estamos
 
 $ pwd
 
-
 luego vemos lo q se encuentra adentro
 
 $ ls 
-
 
 modificamos lo que queremos modificar 
 
 $code historia.txt
 
-
 volvemos agregar la modificacion 
 
 $ git add . 
-
 
 agregamos el commit 
 
 $ git commi    = aqui se abrira una ventana donde mostrara que agregemos un commit agregamos y listo
 
-
 volvemos agregar la modificacion 
 
 $ git add . 
 
+vemos los cambios modificados  para ver los ultimos comandos que se han echo 
 
-vemos los cambios modificados  
-
-$ git show 
-
+$ git show  
 
 
+si queremos ver el historial 
 
+$ git log historia.txt
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
