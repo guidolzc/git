@@ -102,6 +102,20 @@ $ git diff  a3522d7cb8abbf739facd89e7e8fe5bad3f58227  d0bc310a3e4e616821cffaa9fa
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
+staging es la memoria ram es el estado temporal al q agregamos archivos que vamos cambiando y el repositorio real es cuando nosotrodamos commit 
+
+tracked es cuando ve la historia 
+
+commit -m  ya hacemos el cambio q hacemos en el repositorio y cada comit es v1 . v2. v3 .v4 etc.
+
+checkout traerte una version anterior  o un cambio anterior
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+marge  = es cuando tengo varias Versiones v1 , v 2 . v 3. v 4  si la v4 es el actual version y tiene bug hacemos un una copia y cuando modificamos y lo volvemos armar otra version nueva modificando sacando el bugfixig=hotpix resolver los cambios ya mismos eso se llamara un marge ....
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+
 
 
 
