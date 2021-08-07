@@ -32,11 +32,13 @@ git commit -m " este es mi primer comit"
 # Configurar Git
 
 Configuración del usuario
-
+git config
+git confing --list  para ver la lista para modificar 
+git config --list --show-origin       para ver donde esta las cosas guardadas casos avanzados 
 git config --global user.email "guidoit2021@gmail.com"
 
 git config --global user.name "guido"
-
+git confing --list  para ver la lista para modificar  
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 # GIT agregando modificaciones 
