@@ -116,7 +116,8 @@ marge  = es cuando tengo varias Versiones v1 , v 2 . v 3. v 4  si la v4 es el ac
 
  unes la v2 experimentada a la proyecto final tambien se considera un marge 
         
-puede salir tambien experimentos de otra version y asi van uniendo ...  
+puede salir tambien experimentos de otra version y asi van uniendo al proyecto final o pueden experimentar el proyecto final y luego unir las versiones experimentadas
+
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 
