@@ -118,17 +118,23 @@ tracked es cuando ve la historia
 
 commit -m  ya hacemos el cambio q hacemos en el repositorio y cada comit es v1 . v2. v3 .v4 etc.
 
-checkout traerte una version anterior  o un cambio anterior
+checkout traerte una version anterior  o un cambio anterior o la ultima version
 
 //////////////////////////////////////////////////////////////////////////////////////////
-
+#MARGE
 marge  = es cuando tengo varias Versiones v1 , v 2 . v 3. v 4  si la v4 es el actual version y tiene bug hacemos un una copia y cuando modificamos y lo volvemos armar otra version nueva modificando sacando el bugfixig=hotpix resolver los cambios ya mismos eso se llamara un marge ....
 
  unes la v2 experimentada a la proyecto final tambien se considera un marge 
         
 puede salir tambien experimentos de otra version y asi van uniendo al proyecto final o pueden experimentar el proyecto final y luego unir las versiones experimentadas
 
+al unir otro experimento de bugfixins crea otra version final final
+
+bugfixig=hotpix
+hotpix == son lo q tienen q salir YA MISMO
 /////////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 
 
