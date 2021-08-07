@@ -110,7 +110,7 @@ $ git diff  a3522d7cb8abbf739facd89e7e8fe5bad3f58227  d0bc310a3e4e616821cffaa9fa
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
-
+# RAMAS
 staging es la memoria ram es el estado temporal al q agregamos archivos que vamos cambiando y el repositorio real es cuando nosotrodamos commit 
 
 tracked es cuando ve la historia 
