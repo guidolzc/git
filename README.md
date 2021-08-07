@@ -93,7 +93,9 @@ $ git add .
 
 vemos los cambios modificados  para ver los ultimos comandos que se han echo 
 
-$ git show  
+
+$ git show historia.txt
+commit 49061c8be016cae9ac7ee97d60f3165573cae3fe (HEAD -> master)  quiere decir q estoy en la version mas reciente
 
 
 si queremos ver el historial 
