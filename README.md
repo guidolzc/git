@@ -76,7 +76,7 @@ volvemos agregar la modificacion
 
 $ git add . 
 
-agregamos el commit siempre agregar "" un mensaje "
+agregamos el commit siempre agregar "" un mensaje y quien somos nosotros "
 
 $ git commi    = aqui se abrira una ventana donde mostrara que agregemos un commit agregamos y listo
 
