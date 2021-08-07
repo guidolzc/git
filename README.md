@@ -122,7 +122,7 @@ checkout traerte una version anterior  o un cambio anterior o la ultima version
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
-#MARGE
+# MARGE
 marge  = es cuando tengo varias Versiones v1 , v 2 . v 3. v 4  si la v4 es el actual version y tiene bug hacemos un una copia y cuando modificamos y lo volvemos armar otra version nueva modificando sacando el bugfixig=hotpix resolver los cambios ya mismos eso se llamara un marge ....
 
  unes la v2 experimentada a la proyecto final tambien se considera un marge 
