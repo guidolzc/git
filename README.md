@@ -169,9 +169,16 @@ $ git checkout a3522d7cb8abbf739facd89e7e8fe5bad3f58227 historia.txt
 
 $ git commit -am = guarda cambios solo funciona si ya habias guardado con add previamente
 
+
+# CREA RAMAS  
+
+$ git branch cabecera   ===== CREA LA RAMA Y LA MUESTRA
+
 $git show     mostrara las ramas MASTER , CABEZERA o donde estoy PARADO
 
 $git checkout CABEZERA      <---- ponemos el nombre de la rama "CABEZERA y cambiamos de RAMA 
+
+
 
 
 
