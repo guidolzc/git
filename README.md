@@ -132,7 +132,10 @@ al unir otro experimento de bugfixins crea otra version final final
 
 bugfixig=hotpix
 hotpix == son lo q tienen q salir YA MISMO
+
 /////////////////////////////////////////////////////////////////////////////////////////////
+
+
 
 
 
