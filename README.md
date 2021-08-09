@@ -140,12 +140,12 @@ todo vuelve de 0  borra todo el vuelve al pasado de una forma agresiva
 
 git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --hard         
 
-
+----------------------------------------------------------------------------
 aqui sigue  los elementos de trabajo por ejemplo lo que agregaste con ADD .
 
 git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --soft          
 
-
+----------------------------------------------------------------------------
 
 
 
