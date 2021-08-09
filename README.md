@@ -160,3 +160,4 @@ cuando creamos algo nuevo  PODEMOS VER LAS MODIFICACIONES con git STATUS Y LUEGO
 GIT DIFF =   muestra el directorio actual osea en mi disco y en mi  STAGING 
 
 
+$ git log --stat  ==  para ver la cantidad de numeros de cambios 
