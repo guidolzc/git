@@ -177,14 +177,20 @@ $ git branch cabecera   ===== CREA LA RAMA Y LA MUESTRA
 $git show     mostrara las ramas MASTER , CABEZERA o donde estoy PARADO
 
 $git checkout CABEZERA      <---- ponemos el nombre de la rama "CABEZERA y cambiamos de RAMA 
+
 $git add . 
+
 $git commit -m "cambios editados en master "
+
 $git checkout master	<---- veo los ultimos commit o add
 
 
 $git checkout CABEZERA   <---- veo los ultimos commit o add
+
 $git add .
+
 $git commit -m "cambios editados en cabezera "
+
 
 
 # EDITANDO MASTER Y CABEZERA cada uno con su distinto commit y luego uniendolos 
