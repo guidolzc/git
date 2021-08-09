@@ -140,14 +140,14 @@ HARD
 
 para volver un tiempo atras usamos  el codigo que queremos volver y lo demas que hicimos borrara todo 
 
-git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --hard         
+$git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --hard         
 
 ----------------------------------------------------------------------------
 SOFT
 
 aqui sigue  los elementos en STAGING de trabajo por ejemplo lo que agregaste con ADD .
 
-git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --soft          
+$git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --soft          
 
 ----------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --soft
 
 cuando creamos algo nuevo  PODEMOS VER LAS MODIFICACIONES con git STATUS Y LUEGO git DIFF
 
-GIT DIFF =   muestra el directorio actual osea en mi disco y en mi  STAGING 
+$ git diff ==  muestra el directorio actual osea en mi disco y en mi  STAGING 
 
 
 $ git log --stat  ==  para ver la cantidad de numeros de cambios 
