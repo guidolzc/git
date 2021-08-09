@@ -166,3 +166,6 @@ $ git log --stat  ==  para ver la cantidad de numeros de cambios
 aqui volvemos en el tiempo a cierta carpeta  podemos saltar de un cambio a otro ....... OBVIO SIN DAR COMMIT hasta estar seguros....
 
 $ git checkout a3522d7cb8abbf739facd89e7e8fe5bad3f58227 historia.txt 
+
+$ git commit -am = guarda cambios solo funciona si ya habias guardado con add previamente
+
