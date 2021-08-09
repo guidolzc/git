@@ -194,7 +194,28 @@ $git commit -m "cambios editados en cabezera "
 
 
 # EDITANDO MASTER Y CABEZERA cada uno con su distinto commit y luego uniendolos 
+
+$ git checkout master 
+
+funcionamos la CABEZERA al MASTER
+$ git merge cabecera 
+
+
+FUCION 
 $ git branch ==== le indica donde estas o q ramas estas
 
+$ git checkout master 
+
+funcionamos la CABEZERA al MASTER
+$ git merge cabecera 
+
+$ git log           y vemos  master los commit y los commit de cabezera 
+
+$git add .             == modificamos la fusion la letras 
+
+$git commit - m  "volvi a una tipografia ARIAL"
+
+$ git log                 == para ver los cambios
 
 
+# CONFLICTO 2 PERSONAS CAMBIARON EL MISMO CODIGO hablar con la persona y elegir q codigo tomar y borrar 
