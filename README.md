@@ -138,7 +138,7 @@ hotpix == son lo q tienen q salir YA MISMO
 
 HARD
 
-todo vuelve de 0  borra todo el vuelve al pasado de una forma agresiva 
+para volver un tiempo atras usamos  el codigo que queremos volver y lo demas que hicimos borrara todo 
 
 git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --hard         
 
@@ -152,6 +152,11 @@ git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --soft
 ----------------------------------------------------------------------------
 
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+# CREAR Y VER NUEVOS CAMBIOS 
 
+cuando creamos algo nuevo  PODEMOS VER LAS MODIFICACIONES con git STATUS Y LUEGO git DIFF
+
+GIT DIFF =   muestra el directorio actual osea en mi disco y en mi  STAGING 
 
 
