@@ -183,4 +183,4 @@ $git checkout master	<---- veo los ultimos commit o add
 $git checkout CABEZERA   <---- veo los ultimos commit o add 
 
 
-
+# EDITANDO MASTER Y CABEZERA cada uno con su distinto commit y luego uniendolos
