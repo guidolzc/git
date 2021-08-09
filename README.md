@@ -134,7 +134,9 @@ bugfixig=hotpix
 hotpix == son lo q tienen q salir YA MISMO
 
 /////////////////////////////////////////////////////////////////////////////////////////////
+# RESET
 
+git reset a3522d7cb8abbf739facd89e7e8fe5bad3f58227 --hard         todo vuelve de 0  borra todo el vuelve al pasado de una forma agresiva 
 
 
 
