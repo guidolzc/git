@@ -161,3 +161,7 @@ $ git diff ==  muestra el directorio actual osea en mi disco y en mi  STAGING
 
 
 $ git log --stat  ==  para ver la cantidad de numeros de cambios 
+
+-----------------------------------------------------------------------------------
+aqui volvemos en el tiempo a cierta carpeta  OBVIO SIN DAR COMMIT NO SE GUARDARAN LOS CAMBIOS podemos saltar de un cambio a otro
+$ git checkout a3522d7cb8abbf739facd89e7e8fe5bad3f58227 historia.txt 
