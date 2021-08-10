@@ -226,4 +226,6 @@ CONFLICTO 2 PERSONAS CAMBIARON EL MISMO CODIGO hablar con la persona y elegir q 
 
 1 $ pwd    ====== Reviso que estoy en mi carpeta 
 
+Aqui ponemos el NOMBRE ORIGIN Y LA PAGINA QUE AREMOS EL REMOTO
+
 2 $ git remote add origin https://github.com/guidolzc/pro2.git
