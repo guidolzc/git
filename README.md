@@ -236,11 +236,12 @@ origin  https://github.com/guidolzc/pro2.git (fetch)  === traer cosas
 
 origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
-4 $ $ git pull origin main --allow-unrelated-histories    ==== traeme todos los datos del github a mi repositorio local
+4 $ git pull origin main --allow-unrelated-histories    ==== traeme todos los datos del github a mi repositorio local
 
 
-5 $ ls  === nos fijamos q nos trae README.md  
+5 $ ls  === MIRAMOS O fijamos q nos trae README.md  
 
-6 
+6 $ git push origin master:main     === con esta funcion subo mi repositorio al MAIN pero cuidado modifico todo o puedo eliminar algo que no actualize para volver a subir
+
 
 
