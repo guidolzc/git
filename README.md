@@ -222,10 +222,20 @@ CONFLICTO 2 PERSONAS CAMBIARON EL MISMO CODIGO hablar con la persona y elegir q 
 
 
 
-# REMOTO 
+# REMOTO ya trabajando en un repositorio creado
 
 1 $ pwd    ====== Reviso que estoy en mi carpeta 
 
-Aqui ponemos el NOMBRE ORIGIN Y LA PAGINA QUE AREMOS EL REMOTO
+Aqui ponemos el NOMBRE ORIGIN Y LA PAGINA QUE AREMOS EL REMOTO 
 
 2 $ git remote add origin https://github.com/guidolzc/pro2.git
+
+3 $ git remote -v   
+
+origin  https://github.com/guidolzc/pro2.git (fetch)  ===traer cosas
+
+origin  https://github.com/guidolzc/pro2.git (push)  ====enviar cosas
+
+4 $ $ git pull origin main --allow-unrelated-histories    ==== traeme todos los datos del github
+
+
