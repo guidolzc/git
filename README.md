@@ -241,7 +241,9 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 5 $ ls  === MIRAMOS O fijamos q nos trae README.md  
 
-6 $ git push origin master:main     === con esta funcion subo mi repositorio al MAIN pero cuidado modifico todo o puedo eliminar algo que no actualize para volver a subir
+6 $ git push origin master:main     === SUBE mi repositorio  ONLINE al MAIN pero cuidado modifico todo o puedo eliminar algo que no actualize para volver a subir
+
+7 $ git pull origin main      ==  TRAE los datos cambiados o puestos por otra persona de GITHUB a mi repositorio LOCAL
 
 
 
