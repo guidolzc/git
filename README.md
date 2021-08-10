@@ -232,10 +232,15 @@ Aqui ponemos el NOMBRE ORIGIN Y LA PAGINA QUE AREMOS EL REMOTO
 
 3 $ git remote -v   
 
-origin  https://github.com/guidolzc/pro2.git (fetch)  ===traer cosas
+origin  https://github.com/guidolzc/pro2.git (fetch)  === traer cosas
 
-origin  https://github.com/guidolzc/pro2.git (push)  ====enviar cosas
+origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
-4 $ $ git pull origin main --allow-unrelated-histories    ==== traeme todos los datos del github
+4 $ $ git pull origin main --allow-unrelated-histories    ==== traeme todos los datos del github a mi repositorio local
+
+
+5 $ ls  === nos fijamos q nos trae README.md  
+
+6 
 
 
