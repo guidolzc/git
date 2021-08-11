@@ -245,5 +245,4 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 7 $ git pull origin main      ==  TRAE los datos cambiados o puestos por otra persona de GITHUB a mi repositorio LOCAL
 
-
-
+* `git branch -m [nombre inicial] [nuevo nombre] ` renombra el branch [nombre inicial] por [nuevo nombre]
