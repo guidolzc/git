@@ -226,9 +226,7 @@ CONFLICTO 2 PERSONAS CAMBIARON EL MISMO CODIGO hablar con la persona y elegir q 
 
 1 `$ pwd   ` ====== Reviso que estoy en mi carpeta 
 
-Aqui ponemos el NOMBRE ORIGIN Y LA PAGINA QUE AREMOS EL REMOTO 
-
-2 `$ git remote add origin https://github.com/guidolzc/pro2.git`
+2 `$ git remote add origin https://github.com/guidolzc/pro2.git`Aqui ponemos el NOMBRE ORIGIN Y LA PAGINA QUE AREMOS EL REMOTO 
 
 3 `$ git remote -v   `
 
@@ -241,8 +239,14 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 5 `$ ls`  === MIRAMOS O fijamos q nos trae README.md  
 
+ si tienes el correo igual que el github no te pedira contraseña
+ 
 6 `$ git push origin master:main`    === SUBE mi repositorio  ONLINE al MAIN pero cuidado modifico todo o puedo eliminar algo que no actualize para volver a subir
 
 7 `$ git pull origin main `     ==  TRAE los datos cambiados o puestos por otra persona de GITHUB a mi repositorio LOCAL
 
-8 * ` $git branch -m [nombre inicial] [nuevo nombre] ` renombra el branch [nombre inicial] por [nuevo nombre]
+8 * ` $git branch -m main ` -m mueve todo los cambios exitentes en tu rama MASTER  a la nueva rama MAIN
+
+9 `$ git push origin main`  al hacer esto ahora ya funcionaria para enviar al REMOTO
+
+10 
