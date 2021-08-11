@@ -249,4 +249,6 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 9 `$ git push origin main`  al hacer esto ahora ya funcionaria para enviar al REMOTO
 
-10 
+# trabajando por SSH
+
+`ssh-keygen -t rsa -b 4096 -C "pcigfernandez@gmail.com"`
