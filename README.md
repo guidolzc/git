@@ -259,7 +259,7 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 4 ` $ cd ~/.ssh/   `   == entramos a la carpeta .ssh y seleccionamos la llave
 
-5 `$ ssh-add ~/.ssh/id_rsa`     == elegimos la pass pribada nunca compartir
+5 `$ ssh-add ~/.ssh/id_rsa`     == elegimos la pass pribada nunca compartir   = las llaves publica y pribada las 2 son 1 por pc
 
 
  
