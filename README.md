@@ -251,4 +251,16 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 # trabajando por SSH
 
-`ssh-keygen -t rsa -b 4096 -C "pcigfernandez@gmail.com"`
+1 `ssh-keygen -t rsa -b 4096 -C "pcigfernandez@gmail.com"`  ponemos nuestro correo local para crear la llave
+
+2 `$ eval $(ssh-agent -s)`   vericar q el servidor esta corriendo o q el proceso esta encendido
+
+3  `~ ` este signo nos indica donde ir a seleccionar para mostrar en mi pc 
+
+4 ` $ cd ~/.ssh/   `   == entramos a la carpeta .ssh y seleccionamos la llave
+
+5 `$ ssh-add ~/.ssh/id_rsa`     == elegimos la pass pribada nunca compartir
+
+
+ 
+
