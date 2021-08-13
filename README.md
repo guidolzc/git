@@ -283,3 +283,14 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 15 `$ git pull origin main`   hacemos el pull para actualizarnos
 
 16 `$ git push origin main`    para enviar los datos cambiados en el servidor LOCAL al REMOTO
+
+# COMANDOS  TAGS
+`$ git log --all --graph --decorate --oneline`  es para mostrar una forma resumida los branch los commit las ramas
+
+
+`$ alias arbolito="git log --all --graph --decorate --oneline"`de esta forma pongo mis TAGS mas cortos referidos a 1 ALIAS 
+
+
+`$ arbolito` aqui me mostrara todo igual q TAG que es muy largo para escribit y asi creamos nuestros porpios ALIAS TAGS
+
+
