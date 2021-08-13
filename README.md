@@ -262,6 +262,6 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 5 `$ ssh-add ~/.ssh/id_rsa`     == elegimos la pass pribada nunca compartir   = las llaves publica y pribada las 2 son 1 por pc
 
+6 Nos dirigimos a nuestro perfil de Github `github / configuracion / ssh and gpg keys / SSH key `y colocamos aqui la key PUBLICA 
 
- 
 
