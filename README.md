@@ -244,9 +244,7 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 6 `$ git push origin master:main`    === SUBE mi repositorio  ONLINE al MAIN pero cuidado modifico todo o puedo eliminar algo que no actualize para volver a subir
 
 7 `$ git pull origin main `     ==  TRAE los datos cambiados o puestos por otra persona de GITHUB a mi repositorio LOCAL
-  `From github.com:guidolzc/pro2
- * branch            main       -> FETCH_HEAD
-Already up to date `
+  `From github.com:guidolzc/pro2* branch            main       -> FETCH_HEAD  Already up to date `
 
 8 * ` $git branch -m main ` -m mueve todo los cambios exitentes en tu rama MASTER  a la nueva rama MAIN
 
