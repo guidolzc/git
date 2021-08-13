@@ -264,4 +264,22 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 6 Nos dirigimos a nuestro perfil de Github `github / configuracion / ssh and gpg keys / SSH key `y colocamos aqui la key PUBLICA 
 
+7 git remote -v 
 
+8 $ git remote set-url origin git@github.com:guidolzc/pro2.git
+
+9 git remote -v
+
+10 `$  git pull` YES para que verifique la keys y union con mi pc para que ya no deje entrar a otro q no sea yo 
+
+11  `$ git pull origin main` para probar si estamos actualizados  antes de hacer un commit 
+
+12 `$git status `    para ver el CAMBIO que puse al HTML v2.02021
+
+13 `$ git diff`     para ver que cambie y que escribi
+
+14 `$ git commit -am "v 2.2021"`    recien guardo lo que cambie 
+
+15 `$ git pull origin main`   hacemos el pull para actualizarnos
+
+16 `$ git push origin main`    para enviar los datos cambiados en el servidor LOCAL al REMOTO
