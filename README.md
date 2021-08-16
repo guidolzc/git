@@ -311,3 +311,24 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 `$ git push origin :refs/tags/v0.1` elimino de mi Repositorio ONline
 
+# REMOTO CAMBIO DE RAMAS Y UNIONES
+
+`git checkout cabecera `aremos un PUSH a todas las ramas creadas 
+
+`git branch`      vemos los branch q exiten master cabecera y crearemos 2 mas que es FOOTER Y HEADER donde trabajaran 2 programadores distintos 
+
+`$ gitk ` como ver mi RAMAS GRAFICAMENTE
+
+`$git push FOOTER `Y HEADER ........Enviamos una por una al REPOSITORIO REMOTO
+
+
+// vereficamos que aceptaremos que a otra persona tenga permiso a nuestro repositorio para modificar cambios 
+
+iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar colaborador nick usarname de github o correo
+
+
+
+
+
+
+
