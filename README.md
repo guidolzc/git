@@ -324,10 +324,13 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 // vereficamos que aceptaremos que a otra persona tenga permiso a nuestro repositorio para modificar cambios 
 
-iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar colaborador nick usarname de github o correo
+iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar colaborador nick usarname de github o correo y le diremos que acepte la invitacion a su trabajo
 
+nuevo usuarios tienen que CLONAR  = `git clone LINK web` 
 
+parqa ver los cambios de mi repositorio mi historial  =  `git log --stat` 
 
+`$git checkout main ` nos movemos a la rama principal para hacer el MERGE siempre ahi que moverse a cada rama para hacer 1 MERGE 
 
 
 
