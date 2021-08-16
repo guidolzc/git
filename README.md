@@ -315,34 +315,38 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 `git checkout cabecera `aremos un PUSH a todas las ramas creadas 
 
-`git branch`      vemos los branch q exiten master cabecera y crearemos 2 mas que es FOOTER Y HEADER donde trabajaran 2 programadores distintos 
+1 `git branch`      vemos los branch q exiten master cabecera y crearemos 2 mas que es FOOTER Y HEADER donde trabajaran 2 programadores distintos
 
-`$ gitk ` como ver mi RAMAS GRAFICAMENTE
+2 `git branch CREAMOSNAMEAQUI`
 
-`$git push FOOTER `Y HEADER ........Enviamos una por una al REPOSITORIO REMOTO
+3 `$ gitk ` como ver mi RAMAS GRAFICAMENTE
 
+4 `$git push FOOTER `Y HEADER ........Enviamos una por una al REPOSITORIO REMOTO
 
+# Nuevo Usuario 
 // vereficamos que aceptaremos que a otra persona tenga permiso a nuestro repositorio para modificar cambios 
 
 iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar colaborador nick usarname de github o correo y le diremos que acepte la invitacion a su trabajo
 
-nuevo usuarios tienen que CLONAR  = `git clone LINK web` 
+1 nuevo usuarios tienen que CLONAR  = `git clone LINK web` 
 
-para traer ramas traemos llamandolos con su nombre con pull  o los nuevos cambios que hizo otra persona= `$git pull origin footer` 
+2 para traer ramas traemos llamandolos con su nombre con pull  o los nuevos cambios que hizo otra persona= `$git pull origin footer` 
 
-para ver cambios ponemos `ls -al` 
+3 para ver cambios ponemos `ls -al` 
 
-parqa ver los cambios de mi repositorio mi historial  =  `git log --stat` 
+4 parqa ver los cambios de mi repositorio mi historial  =  `git log --stat` 
 
-si hicimos cambios  `$git commit -am "nuevos cambio del usuarioNuevo` 
+5 si hicimos o HACEMOS cambios  `$git commit -am "nuevos cambio del usuarioNuevo` 
 
-actualizamos `$git pull origin footer`
+6 actualizamos `$git pull origin footer`
 
-y enviamos todo modificado = `$git push origin footer`
+7 y enviamos todo modificado = `$git push origin footer`
 
 
 `$git checkout main ` nos movemos a la rama principal para hacer el MERGE siempre ahi que moverse a cada rama para hacer 1 MERGE 
 
+`$git merge footer` = aqui unimos la rama foooter con  MAIN y si queremos llevar las cosas HEADER a HEADER tenemos que entrar a la rama HEADER Y HACER Lo mismo q aqui 
 
+`$ git pull origin main`
 
-
+`$ git push origin main`
