@@ -352,7 +352,14 @@ iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar cola
 11 `$ git push origin main`
 
 # Pull requests ES un estado intermedio ANTES DE ENVIAR EL MERGE un test antes q aceptar el MERGE
+Pull request nos dirigimos a NEW PULL REQUESTS elegimos que rama aran el pull requests y llamaremos a los usuarios que quiero que arreglen algo o lo revisen tambien sirve para 
+aceptar el MERGE
 
+$ git branch fix-typo
 
-
+$ git checkout fix-typo
+$ git status
+$ git diff
+$ git commit -am "modifique los acentos"
+$ git push origin fix-typo
 
