@@ -343,10 +343,16 @@ iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar cola
 7 y enviamos todo modificado = `$git push origin footer`
 
 
-`$git checkout main ` nos movemos a la rama principal para hacer el MERGE siempre ahi que moverse a cada rama para hacer 1 MERGE 
+8`$git checkout main ` nos movemos a la rama principal para hacer el MERGE siempre ahi que moverse a cada rama para hacer 1 MERGE 
 
-`$git merge footer` = aqui unimos la rama foooter con  MAIN y si queremos llevar las cosas HEADER a HEADER tenemos que entrar a la rama HEADER Y HACER Lo mismo q aqui 
+ 9`$git merge footer` = aqui unimos la rama foooter con  MAIN y si queremos llevar las cosas HEADER a HEADER tenemos que entrar a la rama HEADER Y HACER Lo mismo q aqui 
 
-`$ git pull origin main`
+10 `$ git pull origin main`
 
-`$ git push origin main`
+11 `$ git push origin main`
+
+# Flujo de trabajo profesional con Pull requests ES un estado intermedio ANTES DE ENVIAR EL MERGE
+
+
+
+
