@@ -328,6 +328,8 @@ iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar cola
 
 nuevo usuarios tienen que CLONAR  = `git clone LINK web` 
 
+para traer ramas traemos llamandolos con su nombre con pull = `$git pull origin footer` para ver cambios ponemos `ls -al` 
+
 parqa ver los cambios de mi repositorio mi historial  =  `git log --stat` 
 
 `$git checkout main ` nos movemos a la rama principal para hacer el MERGE siempre ahi que moverse a cada rama para hacer 1 MERGE 
