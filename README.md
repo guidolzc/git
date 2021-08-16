@@ -351,7 +351,7 @@ iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar cola
 
 11 `$ git push origin main`
 
-# Flujo de trabajo profesional con Pull requests ES un estado intermedio ANTES DE ENVIAR EL MERGE
+# Pull requests ES un estado intermedio ANTES DE ENVIAR EL MERGE un test antes q aceptar el MERGE
 
 
 
