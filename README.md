@@ -300,9 +300,14 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 `$ git push origin --tags`  aqui enviamos los tags y nos mostrara en la pagina web los tags y la carpeta q mostrara hasta donde llegamos ... 
 
 `$ git tag` para ver cuantos tags tengo 
+
 `$ git tag -d v0.1`   tag q quiero BORRAR
+
 `$ git tag `  confirmo si lo elimine
+
 `$ git pull origin main`  hago el pull para actualizar los datos 
+
 `$ git push origin --tags` elimino de mi local
+
 `$ git push origin :refs/tags/v0.1` elimino de mi Repositorio ONline
 
