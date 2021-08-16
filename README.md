@@ -371,3 +371,24 @@ antes de hacer el merge siempre preguntar si quiere hacer el pull requests para 
 Pull request nos dirigimos a NEW PULL REQUESTS elegimos que rama aran el pull requests y llamaremos a los usuarios que quiero que arreglen algo o lo revisen tambien sirve para 
 aceptar el MERGE
 
+# cuando ya no eres un usuario que trabaja en el github
+
+en GITHUB damos a FORK para clonar o traer la repositorio al nuestro 
+
+clonamos todo a nuestro repositorio local  
+$git clone https://github.com/guidolzc/hyperblog.git
+
+ `$ git remote add origin WEBgithub` Aqui REMOTO q nos conectaremos  
+
+ `$ git remote -v  `   verificamos si esta conectada a la pagina que nuestro repositorio ONLINE
+ 
+$ git status
+
+$ git diff
+
+aqui hacemos los cambios que queremos hacer 
+$ git commit -am "mi nombre aceptalo "
+
+$ git push  
+
+luego nos dirigimos al GITHUB para que acepte nuestros cambios creamos un pull request desde nuestro repositorio que le dimos FORK 
