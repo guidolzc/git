@@ -284,7 +284,7 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 16 `$ git push origin main`    para enviar los datos cambiados en el servidor LOCAL al REMOTO
 
-# COMANDOS  TAGS
+# COMANDOS  TAGS 
 `$ git log --all --graph --decorate --oneline`  es para mostrar una forma resumida los branch los commit las ramas
 
 
@@ -293,4 +293,16 @@ origin  https://github.com/guidolzc/pro2.git (push)  ==== enviar cosas
 
 `$ arbolito` aqui me mostrara todo igual q TAG que es muy largo para escribit y asi creamos nuestros porpios ALIAS TAGS
 
+`$ git tag -a v0.2 -m " resultado de tags v02" 3f5c902`  aqui damos el nombre a un codigo del arbol o historial para decir como un titulo como yo llegue hasta aqui hize todos estos cambios 
+
+`$ git pull origin main` actualizamos 
+
+`$ git push origin --tags`  aqui enviamos los tags y nos mostrara en la pagina web los tags y la carpeta q mostrara hasta donde llegamos ... 
+
+`$ git tag` para ver cuantos tags tengo 
+`$ git tag -d v0.1`   tag q quiero BORRAR
+`$ git tag `  confirmo si lo elimine
+`$ git pull origin main`  hago el pull para actualizar los datos 
+`$ git push origin --tags` elimino de mi local
+`$ git push origin :refs/tags/v0.1` elimino de mi Repositorio ONline
 
