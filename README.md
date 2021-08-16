@@ -354,17 +354,17 @@ iremos a CONFIG de mi proyecto y daremos MANAGE ACCESS y pondremos  Invitar cola
 # Pull requests ES un estado intermedio ANTES DE ENVIAR EL MERGE un test antes q aceptar el MERGE
 
 
-$ git branch fix-typo
+`$ git branch fix-typo`
 
-$ git checkout fix-typo
+`$ git checkout fix-typo`
 
-$ git status
+`$ git status`
 
-$ git diff
+`$ git diff`
 
-$ git commit -am "modifique los acentos"
+`$ git commit -am "modifique los acentos"`
 
-$ git push origin fix-typo
+`$ git push origin fix-typo`
 
 antes de hacer el merge siempre preguntar si quiere hacer el pull requests para q lo vean y confirmen si esta todo bien
 
@@ -376,19 +376,20 @@ aceptar el MERGE
 en GITHUB damos a FORK para clonar o traer la repositorio al nuestro 
 
 clonamos todo a nuestro repositorio local  
-$git clone https://github.com/guidolzc/hyperblog.git
+`$git clone https://github.com/guidolzc/hyperblog.git`
 
  `$ git remote add origin WEBgithub` Aqui REMOTO q nos conectaremos  
 
  `$ git remote -v  `   verificamos si esta conectada a la pagina que nuestro repositorio ONLINE
  
-$ git status
+`$ git status`
 
-$ git diff
+`$ git diff`
 
 aqui hacemos los cambios que queremos hacer 
-$ git commit -am "mi nombre aceptalo "
 
-$ git push  
+`$ git commit -am "mi nombre aceptalo "`
+
+`$ git push  `
 
 luego nos dirigimos al GITHUB para que acepte nuestros cambios creamos un pull request desde nuestro repositorio que le dimos FORK 
